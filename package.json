@@ -1,7 +1,7 @@
 {
-  "name": "stripe-sample",
+  "name": "form",
   "version": "1.0.0",
-  "description": "A sample Stripe implementation",
+  "description": "A payment form",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
